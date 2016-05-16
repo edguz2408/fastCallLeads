@@ -1,0 +1,9 @@
+<project name="salesforce" default="deploy" basedir="." xmlns:sf="antlib:com.salesforce">
+	 <property file="build.properties"/>
+	 <property environment="env"/>
+
+ <target name="deployCode">
+	 <!-- Retrieve the contents listed in the file codepkg/package.xml into the codepkg directory -->
+	 <sf:deploy username="${sf.username}" password="${sf.password}" serverurl="${sf.serverurl}" maxPoll="${sf.maxPoll}" deployRoot="src" />
+ </target>
+</project>
