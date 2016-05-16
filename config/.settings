@@ -1,0 +1,17 @@
+{
+    "projectName": "fastCallContacts",
+    "username": "dev@fastcall.com.devstream2",
+    "id": "a9a398c0-1b0b-11e6-9b9d-e35c2ea8c9f9",
+    "namespace": "",
+    "environment": "sandbox",
+    "loginUrl": "https://test.salesforce.com/",
+    "workspace": "/Users/EdGuzmanMarte/Projects/MavensMateWorkspace",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "CustomObject",
+        "StaticResource"
+    ]
+}

@@ -1,0 +1,240 @@
+[
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v34.0/tooling/sobjects/AuraDefinition/0Ade00000008PA6CAM"
+        },
+        "Id": "0Ade00000008PA6CAM",
+        "AuraDefinitionBundleId": "0Abe00000008OYmCAM",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v34.0/tooling/sobjects/AuraDefinitionBundle/0Abe00000008OYmCAM"
+            },
+            "DeveloperName": "FC_Admin_Test"
+        },
+        "DefType": "SVG",
+        "Format": "SVG"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v34.0/tooling/sobjects/AuraDefinition/0Ade00000008P9mCAE"
+        },
+        "Id": "0Ade00000008P9mCAE",
+        "AuraDefinitionBundleId": "0Abe00000008OYmCAM",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v34.0/tooling/sobjects/AuraDefinitionBundle/0Abe00000008OYmCAM"
+            },
+            "DeveloperName": "FC_Admin_Test"
+        },
+        "DefType": "HELPER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v34.0/tooling/sobjects/AuraDefinition/0Ade00000008P9hCAE"
+        },
+        "Id": "0Ade00000008P9hCAE",
+        "AuraDefinitionBundleId": "0Abe00000008OYmCAM",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v34.0/tooling/sobjects/AuraDefinitionBundle/0Abe00000008OYmCAM"
+            },
+            "DeveloperName": "FC_Admin_Test"
+        },
+        "DefType": "CONTROLLER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v34.0/tooling/sobjects/AuraDefinition/0Ade00000008P9rCAE"
+        },
+        "Id": "0Ade00000008P9rCAE",
+        "AuraDefinitionBundleId": "0Abe00000008OYmCAM",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v34.0/tooling/sobjects/AuraDefinitionBundle/0Abe00000008OYmCAM"
+            },
+            "DeveloperName": "FC_Admin_Test"
+        },
+        "DefType": "STYLE",
+        "Format": "CSS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v34.0/tooling/sobjects/AuraDefinition/0Ade00000008P9wCAE"
+        },
+        "Id": "0Ade00000008P9wCAE",
+        "AuraDefinitionBundleId": "0Abe00000008OYmCAM",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v34.0/tooling/sobjects/AuraDefinitionBundle/0Abe00000008OYmCAM"
+            },
+            "DeveloperName": "FC_Admin_Test"
+        },
+        "DefType": "DOCUMENTATION",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v34.0/tooling/sobjects/AuraDefinition/0Ade00000008P9xCAE"
+        },
+        "Id": "0Ade00000008P9xCAE",
+        "AuraDefinitionBundleId": "0Abe00000008OYmCAM",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v34.0/tooling/sobjects/AuraDefinitionBundle/0Abe00000008OYmCAM"
+            },
+            "DeveloperName": "FC_Admin_Test"
+        },
+        "DefType": "RENDERER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v34.0/tooling/sobjects/AuraDefinition/0Ade00000008PA1CAM"
+        },
+        "Id": "0Ade00000008PA1CAM",
+        "AuraDefinitionBundleId": "0Abe00000008OYmCAM",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v34.0/tooling/sobjects/AuraDefinitionBundle/0Abe00000008OYmCAM"
+            },
+            "DeveloperName": "FC_Admin_Test"
+        },
+        "DefType": "DESIGN",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v34.0/tooling/sobjects/AuraDefinition/0Ade00000008P9NCAU"
+        },
+        "Id": "0Ade00000008P9NCAU",
+        "AuraDefinitionBundleId": "0Abe00000008OYmCAM",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v34.0/tooling/sobjects/AuraDefinitionBundle/0Abe00000008OYmCAM"
+            },
+            "DeveloperName": "FC_Admin_Test"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v34.0/tooling/sobjects/AuraDefinition/0Ade00000008RGoCAM"
+        },
+        "Id": "0Ade00000008RGoCAM",
+        "AuraDefinitionBundleId": "0Abe00000008OwACAU",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v34.0/tooling/sobjects/AuraDefinitionBundle/0Abe00000008OwACAU"
+            },
+            "DeveloperName": "FastCallAdminSettings"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v34.0/tooling/sobjects/AuraDefinition/0Ade00000008RGpCAM"
+        },
+        "Id": "0Ade00000008RGpCAM",
+        "AuraDefinitionBundleId": "0Abe00000008OwACAU",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v34.0/tooling/sobjects/AuraDefinitionBundle/0Abe00000008OwACAU"
+            },
+            "DeveloperName": "FastCallAdminSettings"
+        },
+        "DefType": "CONTROLLER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v34.0/tooling/sobjects/AuraDefinition/0Ade00000008RGqCAM"
+        },
+        "Id": "0Ade00000008RGqCAM",
+        "AuraDefinitionBundleId": "0Abe00000008OwACAU",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v34.0/tooling/sobjects/AuraDefinitionBundle/0Abe00000008OwACAU"
+            },
+            "DeveloperName": "FastCallAdminSettings"
+        },
+        "DefType": "HELPER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v34.0/tooling/sobjects/AuraDefinition/0Ade00000008RGrCAM"
+        },
+        "Id": "0Ade00000008RGrCAM",
+        "AuraDefinitionBundleId": "0Abe00000008OwACAU",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v34.0/tooling/sobjects/AuraDefinitionBundle/0Abe00000008OwACAU"
+            },
+            "DeveloperName": "FastCallAdminSettings"
+        },
+        "DefType": "STYLE",
+        "Format": "CSS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v34.0/tooling/sobjects/AuraDefinition/0Ade00000008RGsCAM"
+        },
+        "Id": "0Ade00000008RGsCAM",
+        "AuraDefinitionBundleId": "0Abe00000008OwACAU",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v34.0/tooling/sobjects/AuraDefinitionBundle/0Abe00000008OwACAU"
+            },
+            "DeveloperName": "FastCallAdminSettings"
+        },
+        "DefType": "DOCUMENTATION",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v34.0/tooling/sobjects/AuraDefinition/0Ade00000008RGtCAM"
+        },
+        "Id": "0Ade00000008RGtCAM",
+        "AuraDefinitionBundleId": "0Abe00000008OwACAU",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v34.0/tooling/sobjects/AuraDefinitionBundle/0Abe00000008OwACAU"
+            },
+            "DeveloperName": "FastCallAdminSettings"
+        },
+        "DefType": "RENDERER",
+        "Format": "JS"
+    }
+]
