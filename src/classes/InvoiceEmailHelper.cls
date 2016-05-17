@@ -47,9 +47,7 @@ public class InvoiceEmailHelper {
                          for(contact c : contacts.get(trans.Account__c)){
                              objs.add(new EmailWrapper(c.Id, trans.Id, template[0].Id ));
                          }
-                     } else {
-                         trans.addError('No Billing/Primary contacts were found for this account');
-                     }
+                     } 
 
                  }
             }
