@@ -12,6 +12,7 @@
         "ApexPage",
         "ApexTrigger",
         "CustomObject",
+        "EmailTemplate",
         "StaticResource"
     ]
 }

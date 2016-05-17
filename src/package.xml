@@ -3,7 +3,14 @@
     <types>
         <members>ContactsHelper</members>
         <members>ContactsHelperTest</members>
+        <members>InvoiceEmailController</members>
+        <members>InvoiceEmailControllerTest</members>
+        <members>InvoiceEmailHelper</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>InvoiceEmail</members>
+        <name>ApexComponent</name>
     </types>
     <types>
         <members>ContactTrigger</members>
@@ -16,8 +23,9 @@
         <name>CustomField</name>
     </types>
     <types>
-        <members>Account-Account Layout</members>
-        <name>Layout</name>
+        <members>Invoice_Email_Templates</members>
+        <members>Invoice_Email_Templates/New_Invoice</members>
+        <name>EmailTemplate</name>
     </types>
     <version>34.0</version>
 </Package>
