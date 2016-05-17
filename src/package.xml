@@ -6,6 +6,7 @@
         <members>InvoiceEmailController</members>
         <members>InvoiceEmailControllerTest</members>
         <members>InvoiceEmailHelper</members>
+        <members>StripeUpdateRESTTest</members>
         <name>ApexClass</name>
     </types>
     <types>
