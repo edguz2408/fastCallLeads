@@ -1,5 +1,0 @@
-<messaging:emailTemplate subject="Invoice created" recipientType="Contact" relatedToType="FastCall_Transaction__c">
-<messaging:htmlEmailBody >
-    <c:InvoiceEmail transaction="{!relatedTo.Id}" />
-</messaging:htmlEmailBody>
-</messaging:emailTemplate>

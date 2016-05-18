@@ -1,32 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>ContactsHelper</members>
-        <members>ContactsHelperTest</members>
-        <members>InvoiceEmailController</members>
-        <members>InvoiceEmailControllerTest</members>
-        <members>InvoiceEmailHelper</members>
-        <members>StripeUpdateRESTTest</members>
+        <members>LeadTriggers</members>
+        <members>LeadTriggersTest</members>
         <name>ApexClass</name>
-    </types>
-    <types>
-        <members>InvoiceEmail</members>
-        <name>ApexComponent</name>
-    </types>
-    <types>
-        <members>ContactTrigger</members>
-        <members>TransactionAfter</members>
-        <members>TransactionTriggers</members>
-        <name>ApexTrigger</name>
-    </types>
-    <types>
-        <members>Account.Primary_Contact__c</members>
-        <name>CustomField</name>
-    </types>
-    <types>
-        <members>Invoice_Email_Templates</members>
-        <members>Invoice_Email_Templates/New_Invoice</members>
-        <name>EmailTemplate</name>
     </types>
     <version>34.0</version>
 </Package>
