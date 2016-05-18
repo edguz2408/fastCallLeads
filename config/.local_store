@@ -1,14 +1,16 @@
 {
     "LeadTriggers.cls": {
-        "createdById": "00530000003O7FEAA0",
-        "createdByName": "Richard Rosen",
-        "createdDate": "2011-01-20T15:57:24.000Z",
-        "fileName": "unpackaged/classes/LeadTriggers.cls",
-        "fullName": "LeadTriggers",
         "id": "01p30000000hff7AAA",
+        "name": "LeadTriggers",
+        "createdDate": "2011-01-20T15:57:24.000+0000",
+        "createdById": "00530000003O7FEAA0",
+        "namespacePrefix": null,
         "lastModifiedById": "00530000006CgSGAA0",
+        "lastModifiedDate": "2016-05-18T01:51:50.000+0000",
+        "fullName": "LeadTriggers",
+        "fileName": "unpackaged/classes/LeadTriggers.cls",
+        "createdByName": "Richard Rosen",
         "lastModifiedByName": "Developer (SBOX)",
-        "lastModifiedDate": "2016-05-13T13:49:59.000Z",
         "manageableState": "unmanaged",
         "type": "ApexClass",
         "mmState": "clean"
